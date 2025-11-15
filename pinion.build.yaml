@@ -1,0 +1,21 @@
+version: 1
+
+# Release asset pinning - supports pattern matching
+release_assets:
+  enabled: true
+  patterns:
+    - "*.tar.gz"        # Pin all .tar.gz files
+    - "*.zip"           # Pin all .zip files  
+    - "*.deb"           # Pin Debian packages
+    - "*.rpm"           # Pin RPM packages
+    - "my-app-*"        # Pin files matching patterns
+
+# Directory monitoring - supports multiple paths and branch selection
+subdirectories:
+  enabled: true
+  branch: "main"        # Git branch to monitor (default: "main")
+  paths:
+    - "docs/"           # Pin documentation directory
+    - "static/"         # Pin static assets
+    - "dist/"           # Pin build output
+    - "data/"           # Pin data files
