@@ -6,6 +6,7 @@ release_assets:
   include_source_code: true
   patterns:
     - "*.txt"
+    - "*.tar.gz"
 
 
 # Directory monitoring - supports multiple paths and branch selection
