@@ -1,0 +1,19 @@
+There once was a lil’ coder named Pip,  
+He’d ping each API like a friendly trip.  
+With a curl in his pocket, a swagger in his stride,  
+He’d check every endpoint and test the API’s hide.  
+
+“Let’s throw a payload, let’s throw a GET,  
+If the server says 200, that’s the win we’ll set!”  
+
+When the bugs were gone, he’d grab his hat,  
+Push a new tag, create a GitHub *release* that’d chat.  
+“Yo, check out the version!” he’d cheer with glee,  
+And the repo would glow—oh, how wild it’s free!  
+
+So if you’re ever stuck in a code‑loop haze,  
+Just call little Pip and he’ll sprint your way.  
+He’ll send your APIs, make your release sing—  
+A little coding hero with a keyboard in wing! 
+
+Git on now, Git!
